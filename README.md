@@ -626,6 +626,12 @@ docker exec -it kafka /usr/bin/kafka-console-producer \
 
 ---
 
+## Author
+
+Tasneem Ibrahim - Mariam Sobhy - Aya Mohamed - Negma Abdelrahman - Rodaina Mohamed
+
+---
+
 <div align="center">
   <sub>Developed for the Advanced Cloud Computing Curriculum • Engineered with AWS, Docker, Apache Kafka, and Python</sub>
 </div>
